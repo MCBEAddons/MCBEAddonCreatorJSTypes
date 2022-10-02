@@ -1,2 +1,2 @@
 export { UUID } from './util';
-export { RP } from './manifest'
+export { RP } from './manifest';
